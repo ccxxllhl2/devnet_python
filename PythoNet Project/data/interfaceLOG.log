@@ -1,0 +1,2031 @@
+=====================================================
+  ===============display interface===============
+=====================================================
+ Bridge-Aggregation1 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4ce0
+ Description: Bridge-Aggregation1 Interface
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ PVID: 1
+ Port link-type: trunk
+  VLAN passing  : 1(default vlan), 30, 60
+  VLAN permitted: 1(default vlan), 2-4094
+  Trunk port encapsulation: IEEE 802.1q
+ Last clearing of counters:  Never
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec    -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec    -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/1 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cb0
+ Description: GigabitEthernet1/0/1 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/2 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cb1
+ Description: GigabitEthernet1/0/2 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/3 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cb2
+ Description: GigabitEthernet1/0/3 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 1000Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 396490 bytes/sec, at 2000-11-02 16:03:48
+ Peak value of output: 7298625 bytes/sec, at 2000-05-05 12:17:24
+ Last 300 seconds input:  1 packets/sec 190 bytes/sec 0%
+ Last 300 seconds output:  75 packets/sec 5515 bytes/sec 0%
+ Input (total):  70081535 packets, 13567658157 bytes
+         64057792 unicasts, 2215822 broadcasts, 3807917 multicasts, 0 pauses
+ Input (normal):  70081535 packets, 13567658157 bytes
+         64057792 unicasts, 2215822 broadcasts, 3807917 multicasts, 0 pauses
+ Input:  4 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 4 aborts
+         - ignored, - parity errors
+ Output (total): 535641940 packets, 93886584234 bytes
+         108849427 unicasts, 387085287 broadcasts, 39707226 multicasts, 0 pauses
+ Output (normal): 535641940 packets, 93886584234 bytes
+         108849427 unicasts, 387085287 broadcasts, 39707226 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/4 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cb3
+ Description: GigabitEthernet1/0/4 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 1000Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 497126 bytes/sec, at 2001-03-16 15:11:57
+ Peak value of output: 2809796 bytes/sec, at 2001-05-26 20:10:25
+ Last 300 seconds input:  29 packets/sec 2122 bytes/sec 0%
+ Last 300 seconds output:  103 packets/sec 7566 bytes/sec 0%
+ Input (total):  278095198 packets, 36219098673 bytes
+         232513640 unicasts, 45257103 broadcasts, 324452 multicasts, 0 pauses
+ Input (normal):  278095198 packets, 36219098673 bytes
+         232513640 unicasts, 45257103 broadcasts, 324452 multicasts, 0 pauses
+ Input:  3 input errors, 0 runts, - giants, - throttles
+         1 CRC, - frame, 0 overruns, 2 aborts
+         - ignored, - parity errors
+ Output (total): 692952326 packets, 80128511802 bytes
+         302878165 unicasts, 346558508 broadcasts, 43515653 multicasts, 0 pauses
+ Output (normal): 692952326 packets, 80128511802 bytes
+         302878165 unicasts, 346558508 broadcasts, 43515653 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/5 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cb4
+ Description: GigabitEthernet1/0/5 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/6 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cb5
+ Description: GigabitEthernet1/0/6 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 1000Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 67327 bytes/sec, at 2001-03-08 18:23:03
+ Peak value of output: 3922100 bytes/sec, at 2000-05-04 16:29:13
+ Last 300 seconds input:  0 packets/sec 83 bytes/sec 0%
+ Last 300 seconds output:  75 packets/sec 5369 bytes/sec 0%
+ Input (total):  48865995 packets, 7547225162 bytes
+         47235902 unicasts, 1149642 broadcasts, 480451 multicasts, 0 pauses
+ Input (normal):  48865995 packets, 7547225162 bytes
+         47235902 unicasts, 1149642 broadcasts, 480451 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 614483972 packets, 184034430017 bytes
+         181678869 unicasts, 389655293 broadcasts, 43149810 multicasts, 0 pauses
+ Output (normal): 614483972 packets, 184034430017 bytes
+         181678869 unicasts, 389655293 broadcasts, 43149810 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/7 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cb6
+ Description: GigabitEthernet1/0/7 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 1000Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 308623 bytes/sec, at 2001-02-27 16:29:52
+ Peak value of output: 7189236 bytes/sec, at 2000-09-06 10:11:51
+ Last 300 seconds input:  28 packets/sec 2062 bytes/sec 0%
+ Last 300 seconds output:  103 packets/sec 7562 bytes/sec 0%
+ Input (total):  300970303 packets, 34356305907 bytes
+         254984883 unicasts, 45742010 broadcasts, 243410 multicasts, 0 pauses
+ Input (normal):  300970303 packets, 34356305907 bytes
+         254984883 unicasts, 45742010 broadcasts, 243410 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 669320658 packets, 74203504223 bytes
+         317993966 unicasts, 316148895 broadcasts, 35177797 multicasts, 0 pauses
+ Output (normal): 669320658 packets, 74203504223 bytes
+         317993966 unicasts, 316148895 broadcasts, 35177797 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/8 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cb7
+ Description: GigabitEthernet1/0/8 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 29572 bytes/sec, at 2000-09-12 20:54:35
+ Peak value of output: 688289 bytes/sec, at 2000-09-05 12:42:26
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  1091479 packets, 324155738 bytes
+         1034122 unicasts, 39995 broadcasts, 17362 multicasts, 0 pauses
+ Input (normal):  1091479 packets, 324155738 bytes
+         1034122 unicasts, 39995 broadcasts, 17362 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 18430139 packets, 2827713304 bytes
+         2258025 unicasts, 14344782 broadcasts, 1827332 multicasts, 0 pauses
+ Output (normal): 18430139 packets, 2827713304 bytes
+         2258025 unicasts, 14344782 broadcasts, 1827332 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/9 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cb8
+ Description: GigabitEthernet1/0/9 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/10 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cb9
+ Description: GigabitEthernet1/0/10 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/11 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cba
+ Description: GigabitEthernet1/0/11 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/12 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cbb
+ Description: GigabitEthernet1/0/12 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/13 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cbc
+ Description: GigabitEthernet1/0/13 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/14 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cbd
+ Description: GigabitEthernet1/0/14 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 6249 bytes/sec, at 2000-10-13 10:20:42
+ Peak value of output: 163477 bytes/sec, at 2000-10-13 10:20:07
+ Last 300 seconds input:  1 packets/sec 126 bytes/sec 0%
+ Last 300 seconds output:  75 packets/sec 5414 bytes/sec 0%
+ Input (total):  38337536 packets, 4586966772 bytes
+         36629017 unicasts, 1707329 broadcasts, 1182 multicasts, 0 pauses
+ Input (normal):  38337536 packets, 4586966772 bytes
+         36629017 unicasts, 1707329 broadcasts, 1182 multicasts, 0 pauses
+ Input:  8 input errors, 0 runts, - giants, - throttles
+         1 CRC, - frame, 0 overruns, 7 aborts
+         - ignored, - parity errors
+ Output (total): 528869043 packets, 45530794499 bytes
+         97355753 unicasts, 382130849 broadcasts, 49382441 multicasts, 0 pauses
+ Output (normal): 528869043 packets, 45530794499 bytes
+         97355753 unicasts, 382130849 broadcasts, 49382441 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/15 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cbe
+ Description: GigabitEthernet1/0/15 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 805615 bytes/sec, at 2000-12-21 17:38:07
+ Peak value of output: 11909613 bytes/sec, at 2000-06-30 16:32:49
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  31063184 packets, 7986403303 bytes
+         29009100 unicasts, 1353653 broadcasts, 700425 multicasts, 0 pauses
+ Input (normal):  31063184 packets, 7986403303 bytes
+         29009100 unicasts, 1353653 broadcasts, 700425 multicasts, 0 pauses
+ Input:  6 input errors, 0 runts, - giants, - throttles
+         1 CRC, - frame, 0 overruns, 5 aborts
+         - ignored, - parity errors
+ Output (total): 258271124 packets, 54332887707 bytes
+         63345101 unicasts, 167238886 broadcasts, 27687137 multicasts, 0 pauses
+ Output (normal): 258271124 packets, 54332887707 bytes
+         63345101 unicasts, 167238886 broadcasts, 27687137 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/16 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cbf
+ Description: GigabitEthernet1/0/16 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 1000Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 187602 bytes/sec, at 2018-07-09 08:41:37
+ Peak value of output: 1826530 bytes/sec, at 2000-12-20 18:17:04
+ Last 300 seconds input:  1 packets/sec 251 bytes/sec 0%
+ Last 300 seconds output:  75 packets/sec 5549 bytes/sec 0%
+ Input (total):  163877054 packets, 24197425115 bytes
+         161580755 unicasts, 1526198 broadcasts, 770096 multicasts, 0 pauses
+ Input (normal):  163877054 packets, 24197425115 bytes
+         161580755 unicasts, 1526198 broadcasts, 770096 multicasts, 0 pauses
+ Input:  5 input errors, 0 runts, - giants, - throttles
+         5 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 958558483 packets, 694176749506 bytes
+         575604193 unicasts, 351073328 broadcasts, 31880962 multicasts, 0 pauses
+ Output (normal): 958558483 packets, 694176749506 bytes
+         575604193 unicasts, 351073328 broadcasts, 31880962 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/17 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cc0
+ Description: GigabitEthernet1/0/17 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 132231 bytes/sec, at 2000-10-05 18:13:58
+ Peak value of output: 3292788 bytes/sec, at 2001-05-17 11:49:39
+ Last 300 seconds input:  0 packets/sec 136 bytes/sec 0%
+ Last 300 seconds output:  75 packets/sec 5436 bytes/sec 0%
+ Input (total):  52785457 packets, 6994440612 bytes
+         50663317 unicasts, 1474123 broadcasts, 647991 multicasts, 0 pauses
+ Input (normal):  52785457 packets, 6994440612 bytes
+         50663317 unicasts, 1474123 broadcasts, 647991 multicasts, 0 pauses
+ Input:  26 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 26 aborts
+         - ignored, - parity errors
+ Output (total): 566018427 packets, 123410605058 bytes
+         135590989 unicasts, 387477443 broadcasts, 42949995 multicasts, 0 pauses
+ Output (normal): 566018427 packets, 123410605058 bytes
+         135590989 unicasts, 387477443 broadcasts, 42949995 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/18 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cc1
+ Description: GigabitEthernet1/0/18 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 282664 bytes/sec, at 2001-02-22 10:29:39
+ Peak value of output: 2851442 bytes/sec, at 2000-05-09 15:38:07
+ Last 300 seconds input:  2 packets/sec 287 bytes/sec 0%
+ Last 300 seconds output:  76 packets/sec 5656 bytes/sec 0%
+ Input (total):  233855889 packets, 30354412293 bytes
+         231852159 unicasts, 1658330 broadcasts, 345085 multicasts, 0 pauses
+ Input (normal):  233855889 packets, 30354412293 bytes
+         231852159 unicasts, 1658330 broadcasts, 345085 multicasts, 0 pauses
+ Input:  315 input errors, 0 runts, - giants, - throttles
+         142 CRC, - frame, 0 overruns, 173 aborts
+         - ignored, - parity errors
+ Output (total): 759442780 packets, 277754820056 bytes
+         329849272 unicasts, 387041989 broadcasts, 42551519 multicasts, 0 pauses
+ Output (normal): 759442780 packets, 277754820056 bytes
+         329849272 unicasts, 387041989 broadcasts, 42551519 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/19 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cc2
+ Description: GigabitEthernet1/0/19 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/20 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cc3
+ Description: GigabitEthernet1/0/20 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 1000Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 62048 bytes/sec, at 2001-05-11 18:55:26
+ Peak value of output: 2243746 bytes/sec, at 2001-05-11 18:55:26
+ Last 300 seconds input:  0 packets/sec 166 bytes/sec 0%
+ Last 300 seconds output:  75 packets/sec 5491 bytes/sec 0%
+ Input (total):  132102517 packets, 50082975330 bytes
+         131401621 unicasts, 218635 broadcasts, 482260 multicasts, 0 pauses
+ Input (normal):  132102517 packets, 50082975330 bytes
+         131401621 unicasts, 218635 broadcasts, 482260 multicasts, 0 pauses
+ Input:  1 input errors, 0 runts, - giants, - throttles
+         1 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 615378751 packets, 164968279753 bytes
+         215565041 unicasts, 357984123 broadcasts, 41829586 multicasts, 0 pauses
+ Output (normal): 615378751 packets, 164968279753 bytes
+         215565041 unicasts, 357984123 broadcasts, 41829586 multicasts, 0 pauses
+ Output: 1 output errors, - underruns, - buffer failures
+         1 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/21 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cc4
+ Description: GigabitEthernet1/0/21 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/22 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cc5
+ Description: GigabitEthernet1/0/22 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/23 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cc6
+ Description: GigabitEthernet1/0/23 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/24 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cc7
+ Description: GigabitEthernet1/0/24 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/25 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cc8
+ Description: GigabitEthernet1/0/25 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/26 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cc9
+ Description: GigabitEthernet1/0/26 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/27 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cca
+ Description: GigabitEthernet1/0/27 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 6190289 bytes/sec, at 2000-08-19 16:30:48
+ Peak value of output: 4478906 bytes/sec, at 2001-05-21 19:49:54
+ Last 300 seconds input:  6 packets/sec 710 bytes/sec 0%
+ Last 300 seconds output:  85 packets/sec 18305 bytes/sec 0%
+ Input (total):  78448494 packets, 20382393666 bytes
+         71938425 unicasts, 5066674 broadcasts, 1443391 multicasts, 0 pauses
+ Input (normal):  78448494 packets, 20382393666 bytes
+         71938425 unicasts, 5066674 broadcasts, 1443391 multicasts, 0 pauses
+ Input:  4 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 4 aborts
+         - ignored, - parity errors
+ Output (total): 616507665 packets, 96193689071 bytes
+         151532678 unicasts, 405962107 broadcasts, 59012880 multicasts, 0 pauses
+ Output (normal): 616507665 packets, 96193689071 bytes
+         151532678 unicasts, 405962107 broadcasts, 59012880 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/28 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4ccb
+ Description: GigabitEthernet1/0/28 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 176920 bytes/sec, at 2000-10-24 16:53:50
+ Peak value of output: 5935888 bytes/sec, at 2000-12-22 17:02:40
+ Last 300 seconds input:  62 packets/sec 4261 bytes/sec 0%
+ Last 300 seconds output:  74 packets/sec 5952 bytes/sec 0%
+ Input (total):  42382519 packets, 7004061411 bytes
+         39759503 unicasts, 1039712 broadcasts, 1583299 multicasts, 0 pauses
+ Input (normal):  42382519 packets, 7004061411 bytes
+         39759503 unicasts, 1039712 broadcasts, 1583299 multicasts, 0 pauses
+ Input:  5 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 5 aborts
+         - ignored, - parity errors
+ Output (total): 586747449 packets, 80326531450 bytes
+         118553503 unicasts, 409593693 broadcasts, 58600253 multicasts, 0 pauses
+ Output (normal): 586747449 packets, 80326531450 bytes
+         118553503 unicasts, 409593693 broadcasts, 58600253 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/29 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4ccc
+ Description: GigabitEthernet1/0/29 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 177330 bytes/sec, at 2000-08-10 12:45:09
+ Peak value of output: 187433 bytes/sec, at 2000-08-10 12:44:44
+ Last 300 seconds input:  0 packets/sec 13 bytes/sec 0%
+ Last 300 seconds output:  74 packets/sec 5299 bytes/sec 0%
+ Input (total):  10110524 packets, 1914900681 bytes
+         8907842 unicasts, 35896 broadcasts, 1166783 multicasts, 0 pauses
+ Input (normal):  10110524 packets, 1914900681 bytes
+         8907842 unicasts, 35896 broadcasts, 1166783 multicasts, 0 pauses
+ Input:  3 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 3 aborts
+         - ignored, - parity errors
+ Output (total): 522766428 packets, 46842487983 bytes
+         76197313 unicasts, 389907993 broadcasts, 56661122 multicasts, 0 pauses
+ Output (normal): 522766428 packets, 46842487983 bytes
+         76197313 unicasts, 389907993 broadcasts, 56661122 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/30 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4ccd
+ Description: GigabitEthernet1/0/30 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 1000Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 604563 bytes/sec, at 2018-08-20 15:58:45
+ Peak value of output: 1067613 bytes/sec, at 2001-01-08 11:00:00
+ Last 300 seconds input:  28 packets/sec 1987 bytes/sec 0%
+ Last 300 seconds output:  103 packets/sec 7394 bytes/sec 0%
+ Input (total):  248979582 packets, 29984744577 bytes
+         227775657 unicasts, 21019569 broadcasts, 184356 multicasts, 0 pauses
+ Input (normal):  248979582 packets, 29984744577 bytes
+         227775657 unicasts, 21019569 broadcasts, 184356 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 631613773 packets, 60733679547 bytes
+         282051348 unicasts, 318479902 broadcasts, 31082524 multicasts, 0 pauses
+ Output (normal): 631613773 packets, 60733679547 bytes
+         282051348 unicasts, 318479902 broadcasts, 31082524 multicasts, 0 pauses
+ Output: 1 output errors, - underruns, - buffer failures
+         1 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/31 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cce
+ Description: GigabitEthernet1/0/31 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 195798 bytes/sec, at 2000-11-16 14:53:17
+ Peak value of output: 1204453 bytes/sec, at 2001-05-04 12:33:02
+ Last 300 seconds input:  1 packets/sec 115 bytes/sec 0%
+ Last 300 seconds output:  76 packets/sec 5437 bytes/sec 0%
+ Input (total):  57472579 packets, 12100234215 bytes
+         55835714 unicasts, 167951 broadcasts, 1435627 multicasts, 8103 pauses
+ Input (normal):  57472579 packets, 12100234215 bytes
+         55835714 unicasts, 167951 broadcasts, 1435627 multicasts, 8103 pauses
+ Input:  25184 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 25184 aborts
+         - ignored, - parity errors
+ Output (total): 614433924 packets, 106484786948 bytes
+         146676110 unicasts, 409038694 broadcasts, 58719120 multicasts, 0 pauses
+ Output (normal): 614433924 packets, 106484786948 bytes
+         146676110 unicasts, 409038694 broadcasts, 58719120 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/32 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4ccf
+ Description: GigabitEthernet1/0/32 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 12207 bytes/sec, at 2000-05-19 12:25:39
+ Peak value of output: 104626 bytes/sec, at 2000-08-09 14:34:26
+ Last 300 seconds input:  0 packets/sec 13 bytes/sec 0%
+ Last 300 seconds output:  74 packets/sec 5299 bytes/sec 0%
+ Input (total):  5584807 packets, 921768829 bytes
+         4402554 unicasts, 37193 broadcasts, 1145057 multicasts, 0 pauses
+ Input (normal):  5584807 packets, 921768829 bytes
+         4402554 unicasts, 37193 broadcasts, 1145057 multicasts, 0 pauses
+ Input:  3 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 3 aborts
+         - ignored, - parity errors
+ Output (total): 498128931 packets, 44267804776 bytes
+         68995502 unicasts, 373987948 broadcasts, 55145481 multicasts, 0 pauses
+ Output (normal): 498128931 packets, 44267804776 bytes
+         68995502 unicasts, 373987948 broadcasts, 55145481 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/33 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cd0
+ Description: GigabitEthernet1/0/33 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 264998 bytes/sec, at 2000-05-18 17:26:59
+ Peak value of output: 284156 bytes/sec, at 2000-06-15 09:13:16
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  13340828 packets, 3169571771 bytes
+         12972281 unicasts, 35480 broadcasts, 333066 multicasts, 0 pauses
+ Input (normal):  13340828 packets, 3169571771 bytes
+         12972281 unicasts, 35480 broadcasts, 333066 multicasts, 0 pauses
+ Input:  1 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 1 aborts
+         - ignored, - parity errors
+ Output (total): 72532045 packets, 13931848951 bytes
+         21820849 unicasts, 38697715 broadcasts, 12013481 multicasts, 0 pauses
+ Output (normal): 72532045 packets, 13931848951 bytes
+         21820849 unicasts, 38697715 broadcasts, 12013481 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/34 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cd1
+ Description: GigabitEthernet1/0/34 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 2662767 bytes/sec, at 2001-04-06 19:01:00
+ Peak value of output: 1900570 bytes/sec, at 2001-01-23 10:46:46
+ Last 300 seconds input:  0 packets/sec 13 bytes/sec 0%
+ Last 300 seconds output:  74 packets/sec 5299 bytes/sec 0%
+ Input (total):  94437712 packets, 40342607344 bytes
+         92586140 unicasts, 243956 broadcasts, 1607610 multicasts, 0 pauses
+ Input (normal):  94437712 packets, 40342607344 bytes
+         92586140 unicasts, 243956 broadcasts, 1607610 multicasts, 0 pauses
+ Input:  6 input errors, 0 runts, - giants, - throttles
+         1 CRC, - frame, 0 overruns, 5 aborts
+         - ignored, - parity errors
+ Output (total): 668591415 packets, 163910962431 bytes
+         199321870 unicasts, 410551902 broadcasts, 58717643 multicasts, 0 pauses
+ Output (normal): 668591415 packets, 163910962431 bytes
+         199321870 unicasts, 410551902 broadcasts, 58717643 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/35 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cd2
+ Description: GigabitEthernet1/0/35 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 144056 bytes/sec, at 2000-10-18 14:29:24
+ Peak value of output: 501983 bytes/sec, at 2000-08-17 13:16:01
+ Last 300 seconds input:  0 packets/sec 13 bytes/sec 0%
+ Last 300 seconds output:  74 packets/sec 5300 bytes/sec 0%
+ Input (total):  20988344 packets, 3826168672 bytes
+         19481842 unicasts, 189874 broadcasts, 1316616 multicasts, 0 pauses
+ Input (normal):  20988344 packets, 3826168672 bytes
+         19481842 unicasts, 189874 broadcasts, 1316616 multicasts, 0 pauses
+ Input:  12 input errors, 0 runts, - giants, - throttles
+         8 CRC, - frame, 0 overruns, 4 aborts
+         - ignored, - parity errors
+ Output (total): 546040565 packets, 52301501636 bytes
+         87755249 unicasts, 400557193 broadcasts, 57728123 multicasts, 0 pauses
+ Output (normal): 546040565 packets, 52301501636 bytes
+         87755249 unicasts, 400557193 broadcasts, 57728123 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/36 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cd3
+ Description: GigabitEthernet1/0/36 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 301103 bytes/sec, at 2000-08-17 14:48:07
+ Peak value of output: 3903712 bytes/sec, at 2001-04-27 13:31:33
+ Last 300 seconds input:  2 packets/sec 279 bytes/sec 0%
+ Last 300 seconds output:  76 packets/sec 5741 bytes/sec 0%
+ Input (total):  59740100 packets, 13545352389 bytes
+         57922872 unicasts, 242368 broadcasts, 1574853 multicasts, 0 pauses
+ Input (normal):  59740100 packets, 13545352389 bytes
+         57922872 unicasts, 242368 broadcasts, 1574853 multicasts, 0 pauses
+ Input:  7 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 7 aborts
+         - ignored, - parity errors
+ Output (total): 604882741 packets, 87755330343 bytes
+         135934954 unicasts, 410122598 broadcasts, 58825189 multicasts, 0 pauses
+ Output (normal): 604882741 packets, 87755330343 bytes
+         135934954 unicasts, 410122598 broadcasts, 58825189 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/37 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cd4
+ Description: GigabitEthernet1/0/37 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 170095 bytes/sec, at 2000-10-03 16:40:03
+ Peak value of output: 1112029 bytes/sec, at 2001-04-03 18:05:53
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  661157 packets, 137448219 bytes
+         626043 unicasts, 16997 broadcasts, 18117 multicasts, 0 pauses
+ Input (normal):  661157 packets, 137448219 bytes
+         626043 unicasts, 16997 broadcasts, 18117 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 7512330 packets, 1246637561 bytes
+         1481935 unicasts, 5346799 broadcasts, 683596 multicasts, 0 pauses
+ Output (normal): 7512330 packets, 1246637561 bytes
+         1481935 unicasts, 5346799 broadcasts, 683596 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/38 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cd5
+ Description: GigabitEthernet1/0/38 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 249997 bytes/sec, at 2018-08-08 10:11:48
+ Peak value of output: 6878848 bytes/sec, at 2001-05-10 19:01:15
+ Last 300 seconds input:  29 packets/sec 2200 bytes/sec 0%
+ Last 300 seconds output:  104 packets/sec 7798 bytes/sec 0%
+ Input (total):  53815254 packets, 6773319119 bytes
+         46741464 unicasts, 6975976 broadcasts, 97812 multicasts, 0 pauses
+ Input (normal):  53815254 packets, 6773319119 bytes
+         46741464 unicasts, 6975976 broadcasts, 97812 multicasts, 0 pauses
+ Input:  2 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 2 aborts
+         - ignored, - parity errors
+ Output (total): 298888394 packets, 36807202895 bytes
+         79793563 unicasts, 196485438 broadcasts, 22609392 multicasts, 0 pauses
+ Output (normal): 298888394 packets, 36807202895 bytes
+         79793563 unicasts, 196485438 broadcasts, 22609392 multicasts, 0 pauses
+ Output: 1 output errors, - underruns, - buffer failures
+         1 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/39 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cd6
+ Description: GigabitEthernet1/0/39 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/40 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cd7
+ Description: GigabitEthernet1/0/40 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 1000Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 50236 bytes/sec, at 2001-05-29 12:51:53
+ Peak value of output: 2627349 bytes/sec, at 2001-05-29 12:51:53
+ Last 300 seconds input:  0 packets/sec 170 bytes/sec 0%
+ Last 300 seconds output:  75 packets/sec 5514 bytes/sec 0%
+ Input (total):  14462419 packets, 4729615886 bytes
+         13985546 unicasts, 165090 broadcasts, 311783 multicasts, 0 pauses
+ Input (normal):  14462419 packets, 4729615886 bytes
+         13985546 unicasts, 165090 broadcasts, 311783 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 440138563 packets, 48253450029 bytes
+         72228051 unicasts, 336641388 broadcasts, 31269124 multicasts, 0 pauses
+ Output (normal): 440138563 packets, 48253450029 bytes
+         72228051 unicasts, 336641388 broadcasts, 31269124 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/41 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cd8
+ Description: GigabitEthernet1/0/41 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 2234 bytes/sec, at 2000-11-23 18:43:43
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 6260 packets, 753788 bytes
+         101 unicasts, 4777 broadcasts, 1382 multicasts, 0 pauses
+ Output (normal): 6260 packets, 753788 bytes
+         101 unicasts, 4777 broadcasts, 1382 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/42 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cd9
+ Description: GigabitEthernet1/0/42 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 1000Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 83340 bytes/sec, at 2001-01-30 10:44:42
+ Peak value of output: 2643856 bytes/sec, at 2001-05-22 15:32:14
+ Last 300 seconds input:  0 packets/sec 193 bytes/sec 0%
+ Last 300 seconds output:  75 packets/sec 5520 bytes/sec 0%
+ Input (total):  19187990 packets, 4207813911 bytes
+         17921606 unicasts, 706900 broadcasts, 559483 multicasts, 0 pauses
+ Input (normal):  19187990 packets, 4207813911 bytes
+         17921606 unicasts, 706900 broadcasts, 559483 multicasts, 0 pauses
+ Input:  1 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 1 aborts
+         - ignored, - parity errors
+ Output (total): 472799750 packets, 53641203344 bytes
+         78747729 unicasts, 358820978 broadcasts, 35231042 multicasts, 0 pauses
+ Output (normal): 472799750 packets, 53641203344 bytes
+         78747729 unicasts, 358820978 broadcasts, 35231042 multicasts, 0 pauses
+ Output: 1 output errors, - underruns, - buffer failures
+         1 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/43 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cda
+ Description: GigabitEthernet1/0/43 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 1000Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 6789556 bytes/sec, at 2001-04-06 21:10:51
+ Peak value of output: 4273743 bytes/sec, at 2001-04-22 12:19:17
+ Last 300 seconds input:  4 packets/sec 586 bytes/sec 0%
+ Last 300 seconds output:  80 packets/sec 9616 bytes/sec 0%
+ Input (total):  50569297 packets, 14228422632 bytes
+         48711487 unicasts, 1755496 broadcasts, 102314 multicasts, 0 pauses
+ Input (normal):  50569297 packets, 14228422632 bytes
+         48711487 unicasts, 1755496 broadcasts, 102314 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 489949824 packets, 87614451029 bytes
+         123669734 unicasts, 334009128 broadcasts, 32270952 multicasts, 0 pauses
+ Output (normal): 489949824 packets, 87614451029 bytes
+         123669734 unicasts, 334009128 broadcasts, 32270952 multicasts, 0 pauses
+ Output: 10 output errors, - underruns, - buffer failures
+         10 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/44 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cdb
+ Description: GigabitEthernet1/0/44 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 2182725 bytes/sec, at 2000-10-06 20:33:10
+ Peak value of output: 611602 bytes/sec, at 2001-04-10 17:49:47
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec 0%
+ Last 300 seconds output:  74 packets/sec 5294 bytes/sec 0%
+ Input (total):  90173759 packets, 14989904821 bytes
+         90117688 unicasts, 32554 broadcasts, 23468 multicasts, 0 pauses
+ Input (normal):  90173759 packets, 14989904821 bytes
+         90117688 unicasts, 32554 broadcasts, 23468 multicasts, 0 pauses
+ Input:  49 input errors, 0 runts, - giants, - throttles
+         12 CRC, - frame, 0 overruns, 37 aborts
+         - ignored, - parity errors
+ Output (total): 531212450 packets, 120907518481 bytes
+         163181233 unicasts, 335590650 broadcasts, 32440567 multicasts, 0 pauses
+ Output (normal): 531212450 packets, 120907518481 bytes
+         163181233 unicasts, 335590650 broadcasts, 32440567 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/45 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cdc
+ Description: GigabitEthernet1/0/45 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 1468929 bytes/sec, at 2000-10-06 15:57:22
+ Peak value of output: 2736742 bytes/sec, at 2018-07-02 16:01:31
+ Last 300 seconds input:  1 packets/sec 174 bytes/sec 0%
+ Last 300 seconds output:  75 packets/sec 5494 bytes/sec 0%
+ Input (total):  55100260 packets, 12748902655 bytes
+         53019904 unicasts, 1704153 broadcasts, 375899 multicasts, 0 pauses
+ Input (normal):  55100260 packets, 12748902655 bytes
+         53019904 unicasts, 1704153 broadcasts, 375899 multicasts, 0 pauses
+ Input:  304 input errors, 0 runts, - giants, - throttles
+         35 CRC, - frame, 0 overruns, 269 aborts
+         - ignored, - parity errors
+ Output (total): 535133377 packets, 91585124272 bytes
+         133980200 unicasts, 361665148 broadcasts, 39488029 multicasts, 0 pauses
+ Output (normal): 535133377 packets, 91585124272 bytes
+         133980200 unicasts, 361665148 broadcasts, 39488029 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/46 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cdd
+ Description: GigabitEthernet1/0/46 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 126198 bytes/sec, at 2001-05-24 13:28:09
+ Peak value of output: 7325248 bytes/sec, at 2000-10-20 15:26:21
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec 0%
+ Last 300 seconds output:  74 packets/sec 5294 bytes/sec 0%
+ Input (total):  10610396 packets, 2654300123 bytes
+         10331367 unicasts, 139865 broadcasts, 139100 multicasts, 0 pauses
+ Input (normal):  10610396 packets, 2654300123 bytes
+         10331367 unicasts, 139865 broadcasts, 139100 multicasts, 0 pauses
+ Input:  64 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 64 aborts
+         - ignored, - parity errors
+ Output (total): 478772250 packets, 50980964605 bytes
+         77676132 unicasts, 361518088 broadcasts, 39578030 multicasts, 0 pauses
+ Output (normal): 478772250 packets, 50980964605 bytes
+         77676132 unicasts, 361518088 broadcasts, 39578030 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/47 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cde
+ Description: GigabitEthernet1/0/47 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 171883 bytes/sec, at 2000-10-18 15:31:44
+ Peak value of output: 7250682 bytes/sec, at 2000-10-18 15:31:44
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec 0%
+ Last 300 seconds output:  74 packets/sec 5293 bytes/sec 0%
+ Input (total):  82392243 packets, 9877820939 bytes
+         80601593 unicasts, 1594393 broadcasts, 196239 multicasts, 0 pauses
+ Input (normal):  82392243 packets, 9877820939 bytes
+         80601593 unicasts, 1594393 broadcasts, 196239 multicasts, 0 pauses
+ Input:  18 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 18 aborts
+         - ignored, - parity errors
+ Output (total): 517356482 packets, 87824127161 bytes
+         89995747 unicasts, 383927534 broadcasts, 43433200 multicasts, 0 pauses
+ Output (normal): 517356482 packets, 87824127161 bytes
+         89995747 unicasts, 383927534 broadcasts, 43433200 multicasts, 0 pauses
+ Output: 1 output errors, - underruns, - buffer failures
+         1 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/48 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4cdf
+ Description: GigabitEthernet1/0/48 Interface
+ Loopback is not set
+ Media type is twisted pair, Port hardware type is 1000_BASE_T
+ 100Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 30
+ Mdi type: auto
+ Port link-type: access
+  Tagged   VLAN ID : none
+  Untagged VLAN ID : 30
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 130584 bytes/sec, at 2018-08-13 15:15:46
+ Peak value of output: 2078263 bytes/sec, at 2018-08-13 15:15:51
+ Last 300 seconds input:  0 packets/sec 90 bytes/sec 0%
+ Last 300 seconds output:  75 packets/sec 5370 bytes/sec 0%
+ Input (total):  5047789 packets, 912430381 bytes
+         5013035 unicasts, 17091 broadcasts, 17586 multicasts, 0 pauses
+ Input (normal):  5047789 packets, 912430381 bytes
+         5013035 unicasts, 17091 broadcasts, 17586 multicasts, 0 pauses
+ Input:  77 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 77 aborts
+         - ignored, - parity errors
+ Output (total): 85737023 packets, 12089219835 bytes
+         22759203 unicasts, 54887023 broadcasts, 8090797 multicasts, 0 pauses
+ Output (normal): 85737023 packets, 12089219835 bytes
+         22759203 unicasts, 54887023 broadcasts, 8090797 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/49 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4ce0
+ Description: GigabitEthernet1/0/49 Interface
+ Loopback is not set
+ Media type is optical fiber, Port hardware type is No connector
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 1
+ Port link-type: trunk
+  VLAN passing  : 1(default vlan), 30, 60
+  VLAN permitted: 1(default vlan), 2-4094
+  Trunk port encapsulation: IEEE 802.1q
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/50 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4ce1
+ Description: GigabitEthernet1/0/50 Interface
+ Loopback is not set
+ Media type is optical fiber, Port hardware type is No connector
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 1
+ Port link-type: trunk
+  VLAN passing  : 1(default vlan), 30, 60
+  VLAN permitted: 1(default vlan), 2-4094
+  Trunk port encapsulation: IEEE 802.1q
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/51 current state: DOWN
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4ce2
+ Description: GigabitEthernet1/0/51 Interface
+ Loopback is not set
+ Media type is optical fiber, Port hardware type is No connector
+ Unknown-speed mode, unknown-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 1
+ Port link-type: trunk
+  VLAN passing  : 1(default vlan), 30, 60
+  VLAN permitted: 1(default vlan), 2-4094
+  Trunk port encapsulation: IEEE 802.1q
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 0 bytes/sec, at 00-00-00 00:00:00
+ Peak value of output: 0 bytes/sec, at 00-00-00 00:00:00
+ Last 300 seconds input:  0 packets/sec 0 bytes/sec -%
+ Last 300 seconds output:  0 packets/sec 0 bytes/sec -%
+ Input (total):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input (normal):  0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output (normal): 0 packets, 0 bytes
+         0 unicasts, 0 broadcasts, 0 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+ GigabitEthernet1/0/52 current state: UP
+ IP Packet Frame Type: PKTFMT_ETHNT_2, Hardware Address: 70ba-eff0-4ce3
+ Description: GigabitEthernet1/0/52 Interface
+ Loopback is not set
+ Media type is optical fiber, Port hardware type is 1000_BASE_SX_SFP
+ 1000Mbps-speed mode, full-duplex mode
+ Link speed type is autonegotiation, link duplex type is autonegotiation
+ Flow-control is not enabled
+ The Maximum Frame Length is 9600
+ Broadcast MAX-ratio: 100%
+ Unicast MAX-ratio: 100%
+ Multicast MAX-ratio: 100%
+ PVID: 1
+ Port link-type: trunk
+  VLAN passing  : 1(default vlan), 30, 60
+  VLAN permitted: 1(default vlan), 2-4094
+  Trunk port encapsulation: IEEE 802.1q
+ Port priority: 0
+ Last clearing of counters:  Never
+ Peak value of input: 12045421 bytes/sec, at 2000-06-30 16:32:49
+ Peak value of output: 6820654 bytes/sec, at 2001-04-06 21:11:46
+ Last 300 seconds input:  473 packets/sec 56967 bytes/sec 0%
+ Last 300 seconds output:  207 packets/sec 17432 bytes/sec 0%
+ Input (total):  7206609040 packets, 2471855262927 bytes
+         2999638252 unicasts, 3726560626 broadcasts, 480410162 multicasts, 0 pauses
+ Input (normal):  7206609040 packets, 2471855262927 bytes
+         2999638252 unicasts, 3726560626 broadcasts, 480410162 multicasts, 0 pauses
+ Input:  0 input errors, 0 runts, - giants, - throttles
+         0 CRC, - frame, 0 overruns, 0 aborts
+         - ignored, - parity errors
+ Output (total): 2368847740 packets, 425410046599 bytes
+         2195448067 unicasts, 160567618 broadcasts, 12832055 multicasts, 0 pauses
+ Output (normal): 2368847740 packets, 425410046599 bytes
+         2195448067 unicasts, 160567618 broadcasts, 12832055 multicasts, 0 pauses
+ Output: 0 output errors, - underruns, - buffer failures
+         0 aborts, 0 deferred, 0 collisions, - late collisions
+         - lost carrier, - no carrier
+
+NULL0 current state: UP
+Line protocol current state: UP (spoofing)
+Description: NULL0 Interface
+The Maximum Transmit Unit is 1500
+Internet protocol processing : disabled
+Physical is NULL DEV
+ Last clearing of counters:  Never
+    Last 300 seconds input rate: 0 bytes/sec, 0 bits/sec, 0 packets/sec
+    Last 300 seconds output rate: 0 bytes/sec, 0 bits/sec, 0 packets/sec
+    0 packets input, 0 bytes, 0 drops
+    0 packets output, 0 bytes, 0 drops
+
+Vlan-interface1 current state: UP
+Line protocol current state: UP
+Description: Vlan-interface1 Interface
+The Maximum Transmit Unit is 1500
+Internet Address is 10.15.188.20/24 Primary
+IP Packet Frame Type: PKTFMT_ETHNT_2,  Hardware Address: 70ba-eff0-4cae
+IPv6 Packet Frame Type: PKTFMT_ETHNT_2,  Hardware Address: 70ba-eff0-4cae
+ Last clearing of counters:  Never
+    Last 300 seconds input rate: 0 bytes/sec, 0 bits/sec, 0 packets/sec
+    Last 300 seconds output rate: 0 bytes/sec, 0 bits/sec, 0 packets/sec
+    0 packets input, 0 bytes, 0 drops
+    0 packets output, 0 bytes, 0 drops
