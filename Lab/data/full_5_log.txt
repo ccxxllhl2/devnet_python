@@ -1,0 +1,5 @@
+SYS-6-LOGGINGHOST_STARTSTOP: Logging to host 110.186.35.237 Port 514 started - CLI initiated
+SYS-SPSTBY-3-LOGGER_FLUSHED: System was paused for 00:00:00 to ensure console debugging output.
+OIR-SP-3-PWRCYCLE: Card in module 5, is being power-cycled 'Switchover'
+SNMP-5-MODULETRAP: Module 5 [Down] Trap
+SNMP-5-MODULETRAP: Module 6 [Up] Trap

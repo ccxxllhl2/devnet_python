@@ -12,7 +12,6 @@ with open("data/interfaceLOG.log") as file:
 # -------------------作业区域开始------------------------
 Pattern1 = r"  "
 Pattern2 = r"  "
-# -------------------作业区域结束------------------------
 
 
 def port_and_mac(pattern1, pattern2):
@@ -27,6 +26,8 @@ def port_and_mac(pattern1, pattern2):
             if ('UP' in if_name) and ('GigabitEthernet' in if_name):
                 if_info[if_name.split(" ")[1]] = mac_address
     return if_info
+
+# -------------------作业区域结束------------------------
 
 
 if __name__ == "__main__":

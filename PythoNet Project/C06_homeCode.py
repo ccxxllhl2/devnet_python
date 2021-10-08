@@ -17,7 +17,7 @@ device_info = ["cisco_beijing01",
 # 公司所有的思科设备都换成华为了，设备的hostname前缀也需要从cisco改为huawei，用列表表达式完成这项任务
 # -------------------作业区域开始------------------------
 # TODO: 编写列表表达式new_device_info，将device_info里面的cisco前缀都更新为huawei
-new_device_info = ["huawei" + device.split("_")[-1] for device in device_info ]
+
 
 # -------------------作业区域结束------------------------
 
