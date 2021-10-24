@@ -23,7 +23,7 @@ ip_datas = {"interface0": 10.10.10.1
 # 命令行输出数据
 for int_index in range(5):
     int_name = interfaces_msg[int_index][list(interfaces_msg[int_index].keys())[0]]
-    int_des = interfaces_msg[int_index][list(interfaces_msg[int_index].keys())[0]]
-    int_status = interfaces_msg[int_index][list(interfaces_msg[int_index].keys())[0]]
+    int_des = interfaces_msg[int_index][list(interfaces_msg[int_index].keys())[1]]
+    int_status = interfaces_msg[int_index][list(interfaces_msg[int_index].keys())[2]]
     int_ip = ip_datas[list(ip_datas.keys())[int_index]]
     print(f"{int_des} 接口 {int_name} 目前的状态是 {int_status}，其IP地址为：{int_ip}")

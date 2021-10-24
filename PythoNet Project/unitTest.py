@@ -32,9 +32,9 @@ def check_data(data1, data2, data3, data4):
 def check_02_result(result):
     if result[0] != {'GigabitEthernet1': 'DOWN'}:
         ERRORS.append("第一行日志处理仍然有问题")
-    if result[1] != {'GigabitEthernet2': 'DOWN'}:
+    if result[1] != {'GigabitEthernet2': 'UP'}:
         ERRORS.append("第二行日志处理仍然有问题")
-    if result[2] != {'admin': 'DOWN'}:
+    if result[2] != {'admin': '192.148.120.4'}:
         ERRORS.append("第三行日志处理仍然有问题")
     if result[3] != {'admin': ['192.148.120.4', 'display acl all']}:
         ERRORS.append("第四行日志处理仍然有问题")
