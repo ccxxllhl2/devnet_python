@@ -1,0 +1,5 @@
+Huawei Versatile Routing Platform Software
+VRP (R) software, Version 8.180 (CE12800 V200R005C10SPC607B607)
+Copyright (C) 2012-2018 Huawei Technologies Co., Ltd.
+HUAWEI CE12800 uptime is 0 day, 0 hour, 8 minutes 
+SVRP Platform Version 1.0

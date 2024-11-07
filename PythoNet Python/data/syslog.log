@@ -1,0 +1,74 @@
+*Jan 26 06:53:11: %SYS-6-LOGGINGHOST_STARTSTOP: Logging to host 110.186.35.237 Port 514 started - CLI initiated
+*Jan 26 06:53:10: %SYS-SPSTBY-3-LOGGER_FLUSHED: System was paused for 00:00:00 to ensure console debugging output.
+*Jan 26 06:53:11: %OIR-SP-3-PWRCYCLE: Card in module 5, is being power-cycled 'Switchover'
+*Jan 26 06:53:12: %SNMP-5-MODULETRAP: Module 5 [Down] Trap
+*Jan 26 06:53:12: %SNMP-5-MODULETRAP: Module 6 [Up] Trap
+*Jan 26 06:53:12: %C6KPWR-SP-4-PSOK: power supply 1 turned on.
+*Jan 26 06:53:12: %C6KPWR-SP-4-PSOK: power supply 2 turned on.
+*Jan 26 06:53:13: %SNMP-5-MODULETRAP: Module 3 [Up] Trap
+*Jan 26 06:53:13: %SNMP-5-MODULETRAP: Module 4 [Up] Trap
+*Jan 26 06:53:13: %SNMP-5-MODULETRAP: Module 7 [Up] Trap
+*Jan 26 06:53:13: %SNMP-5-MODULETRAP: Module 2 [Up] Trap
+*Jan 26 06:53:12: %OIR-SP-6-DOWNGRADE_EARL: Module 7 DFC installed is not identical to system PFC and will perform at current system operating mode.
+*Jan 26 06:53:12: %OIR-SP-6-INSCARD: Card inserted in slot 6, interfaces are now online
+*Jan 26 06:53:13: %OIR-SP-6-INSCARD: Card inserted in slot 3, interfaces are now online
+*Jan 26 06:53:13: %OIR-SP-6-INSCARD: Card inserted in slot 4, interfaces are now online
+*Jan 26 06:53:13: %OIR-SP-6-INSCARD: Card inserted in slot 7, interfaces are now online
+*Jan 26 06:53:13: %OIR-SP-6-INSCARD: Card inserted in slot 2, interfaces are now online
+*Jan 26 06:53:14: %SNMP-5-MODULETRAP: Module 1 [Up] Trap
+*Jan 26 06:53:14: %OIR-SP-6-INSCARD: Card inserted in slot 1, interfaces are now online
+*Jan 26 06:53:16: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.135.33 on Vlan168 from LOADING to FULL, Loading Done
+*Jan 26 06:53:16: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.135.33 on Vlan165 from LOADING to FULL, Loading Done
+*Jan 26 06:53:17: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.135.33 on GigabitEthernet2/3 from LOADING to FULL, Loading Done
+*Jan 26 06:53:17: %OSPF-5-ADJCHG: Process 1, Nbr 60.135.202.220 on GigabitEthernet2/8 from LOADING to FULL, Loading Done
+*Jan 26 06:53:17: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.134.230 on GigabitEthernet2/11 from LOADING to FULL, Loading Done
+*Jan 26 06:53:19: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.134.249 on TenGigabitEthernet7/11 from LOADING to FULL, Loading Done
+*Jan 26 06:53:21: %BGP-3-NOTIFICATION: received from neighbor 110.79.134.225 6/5 (cease) 0 bytes 
+*Jan 26 06:53:23: %BGP-3-NOTIFICATION: received from neighbor 110.79.134.224 6/5 (cease) 0 bytes 
+*Jan 26 06:53:32: %BGP-3-NOTIFICATION: received from neighbor 110.79.134.225 6/5 (cease) 0 bytes 
+*Jan 26 06:53:36: %BGP-3-NOTIFICATION: received from neighbor 110.79.134.224 6/5 (cease) 0 bytes 
+*Jan 26 06:53:40: %BGP-3-NOTIFICATION: received from neighbor 110.79.134.225 6/5 (cease) 0 bytes 
+*Jan 26 06:53:45: %BGP-3-NOTIFICATION: received from neighbor 110.79.134.224 6/5 (cease) 0 bytes 
+*Jan 26 06:53:49: %BGP-3-NOTIFICATION: received from neighbor 110.79.134.225 6/5 (cease) 0 bytes 
+*Jan 26 06:53:53: %BGP-3-NOTIFICATION: received from neighbor 110.79.134.224 6/5 (cease) 0 bytes 
+*Jan 26 06:53:58: %OSPF-5-ADJCHG: Process 1, Nbr 60.135.202.220 on GigabitEthernet2/8 from FULL to DOWN, Neighbor Down: Dead timer expired
+*Jan 26 06:53:59: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.134.249 on TenGigabitEthernet7/11 from FULL to DOWN, Neighbor Down: Dead timer expired
+*Jan 26 06:53:59: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.134.230 on GigabitEthernet2/11 from FULL to DOWN, Neighbor Down: Dead timer expired
+*Jan 26 06:54:00: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.135.33 on Vlan168 from FULL to DOWN, Neighbor Down: Dead timer expired
+*Jan 26 06:54:00: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.135.33 on Vlan165 from FULL to DOWN, Neighbor Down: Dead timer expired
+*Jan 26 06:54:00: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.135.33 on GigabitEthernet2/3 from FULL to DOWN, Neighbor Down: Dead timer expired
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 110.112.32.37 on Port-channel1 from LOADING to FULL, Loading Done
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.134.230 on Vlan142 from LOADING to FULL, Loading Done
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.134.230 on GigabitEthernet2/11 from LOADING to FULL, Loading Done
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.135.94 on TenGigabitEthernet7/3 from LOADING to FULL, Loading Done
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.134.228 on TenGigabitEthernet7/2 from LOADING to FULL, Loading Done
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.134.226 on Vlan120 from LOADING to FULL, Loading Done
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.134.249 on TenGigabitEthernet7/11 from LOADING to FULL, Loading Done
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.134.248 on TenGigabitEthernet7/10 from LOADING to FULL, Loading Done
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 110.112.32.218 on TenGigabitEthernet3/1 from LOADING to FULL, Loading Done
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.135.33 on Vlan165 from LOADING to FULL, Loading Done
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.135.33 on GigabitEthernet2/3 from LOADING to FULL, Loading Done
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.135.33 on Vlan168 from LOADING to FULL, Loading Done
+*Jan 26 06:56:37: %OSPF-5-ADJCHG: Process 1, Nbr 60.135.202.220 on GigabitEthernet2/8 from LOADING to FULL, Loading Done
+*Jan 26 06:56:38: %OSPF-5-ADJCHG: Process 1, Nbr 110.112.32.242 on TenGigabitEthernet4/3 from LOADING to FULL, Loading Done
+*Jan 26 06:56:38: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.134.232 on Vlan134 from LOADING to FULL, Loading Done
+*Jan 26 06:56:38: %OSPF-5-ADJCHG: Process 1, Nbr 60.135.202.220 on Vlan144 from LOADING to FULL, Loading Done
+*Jan 26 06:56:38: %OSPF-5-ADJCHG: Process 1, Nbr 110.79.134.241 on Vlan135 from LOADING to FULL, Loading Done
+*Jan 26 06:57:01: %BGP-3-NOTIFICATION: sent to neighbor 110.79.134.225 4/0 (hold time expired) 0 bytes 
+*Jan 26 06:57:02: %BGP-3-NOTIFICATION: sent to neighbor 110.79.134.224 4/0 (hold time expired) 0 bytes 
+*Jan 26 06:57:04: %BGP-5-ADJCHANGE: neighbor 110.79.134.232 Up 
+*Jan 26 06:57:24: %BGP-5-ADJCHANGE: neighbor 110.79.134.225 Up 
+*Jan 26 06:57:27: %BGP-5-ADJCHANGE: neighbor 110.79.134.224 Up 
+*Jan 26 06:58:32: %PFREDUN-SP-6-ACTIVE: Standby initializing for SSO mode
+*Jan 26 06:58:32: %SYS-SP-3-LOGGER_FLUSHED: System was paused for 00:00:00 to ensure console debugging output.
+*Jan 26 06:58:47: %PFINIT-SP-5-CONFIG_SYNC: Sync'ing the startup configuration to the standby Router. 
+*Jan 26 06:59:37: %FABRIC-SP-5-CLEAR_BLOCK: Clear block option is off for the fabric in slot 5.
+*Jan 26 06:59:37: %FABRIC-SP-5-FABRIC_MODULE_BACKUP: The Switch Fabric Module in slot 5 became standby
+*Jan 26 06:59:38: %DIAG-SP-6-RUN_MINIMUM: Module 5: Running Minimal Diagnostics...
+*Jan 26 06:59:40: %DIAG-SP-6-DIAG_OK: Module 5: Passed Online Diagnostics
+*Jan 26 06:59:42: %SNMP-5-MODULETRAP: Module 5 [Up] Trap
+*Jan 26 06:59:42: %OIR-SP-6-INSCARD: Card inserted in slot 5, interfaces are now online
+*Jan 26 07:00:54: %HA_CONFIG_SYNC-6-BULK_CFGSYNC_SUCCEED: Bulk Sync succeeded
+*Jan 26 07:00:53: %PFREDUN-SPSTBY-6-STANDBY: Ready for SSO mode
+*Jan 26 07:00:54: %RF-SP-5-RF_TERMINAL_STATE: Terminal state reached for (SSO)
+*Jan 26 07:00:53: %SYS-SPSTBY-3-LOGGER_FLUSHED: System was paused for 00:00:00 to ensure console debugging output.

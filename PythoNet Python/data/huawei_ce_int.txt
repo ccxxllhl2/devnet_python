@@ -1,0 +1,15 @@
+PHY: Physical
+InUti/OutUti: input utility rate/output utility rate
+Interface                  PHY      Protocol  InUti OutUti   inErrors  outErrors
+GE1/0/0                    *down    down         0%     0%          0          0
+GE1/0/1                    *down    down         0%     0%          0          0
+GE1/0/2                    *down    down         0%     0%          0          0
+GE1/0/3                    *down    down         0%     0%          0          0
+GE1/0/4                    *down    down         0%     0%          0          0
+GE1/0/5                    *down    down         0%     0%          0          0
+GE1/0/6                    *down    down         0%     0%          0          0
+GE1/0/7                    *down    down         0%     0%          0          0
+GE1/0/8                    *down    down         0%     0%          0          0
+GE1/0/9                    *down    down         0%     0%          0          0
+MEth0/0/0                  up        down         0%     0%          0          0
+NULL0                         up        up(s)        0%     0%          0          0
